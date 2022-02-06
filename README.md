@@ -21,6 +21,6 @@ The tool has 2 python scripts, a server side and client side. You need to start 
 `$ python WgetSender.py "/etc/passwd" `
 
 
-####Code Blocks (Indented style)
+### Running 
 ![](https://i.imgur.com/CnKEmHQ.gif)
 
